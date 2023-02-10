@@ -1,2 +1,6 @@
 # Automata_and_Logic_on_Infinite_Objects_HWs
-Homeworks in Automata and Logic on Infinite Objects course, Computer Science M.Sc., Ben Gurion University, 2019-20
+[Repo](https://github.com/krichelj/Automata_and_Logic_on_Infinite_Objects_HWs) for homeworks in Automata and Logic on Infinite Objects course, Computer Science M.Sc., Ben Gurion University, 2019-20\
+
+  * [HW1](Automata_and_Logic_on_Infinite_Objects_1.pdf)
+  * [HW2](Automata_and_Logic_on_Infinite_Objects_2.pdf)
+  * [HW3](Automata_and_Logic_on_Infinite_Objects_3.pdf)
